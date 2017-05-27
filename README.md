@@ -9,8 +9,7 @@
 - example.py (直接生成)
 > 原图 & 结果图
 
-    ![](image/0.jpg)
-    ![](result/result.jpg)
+![](image/0.jpg)  ![](result/result.jpg)
 - example2.py (选定目标位置)
 > 过程图 & 结果图
 
